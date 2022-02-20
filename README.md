@@ -46,7 +46,8 @@ Caso você não queira baixar o projeto você pode acessar o link do projeto hos
 <a href="https://spring.io/projects/spring-boot">Spring boot</a>: Framework usada para desenvolver a api.<br>
 <a href="https://junit.org/junit5/docs/current/user-guide/">Junit</a>: usado para realizar os testes unitarios.<br>
 <a href="https://maven.apache.org/download.cgi">Maven</a>: usado para gerenciar as dependencias.<br>
-<a href="https://www.azul.com/downloads/?package=jdk">Maven</a>: linguagem usada no projeto.<br>
+<a href="https://www.azul.com/downloads/?package=jdk">Java</a>: linguagem usada no projeto.<br>
+<a href="https://swagger.io/specification/">Swagger open api</a>: Usado para documentar o projeto.<br>
 
 
 
